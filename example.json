@@ -1,0 +1,8 @@
+[
+  {
+    "operationId" : "GetUser"
+  },
+  {
+    "operationId" : "PostUser"
+  }
+]
